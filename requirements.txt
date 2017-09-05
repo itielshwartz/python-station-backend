@@ -1,0 +1,6 @@
+requests
+praw
+click
+arrow
+tqdm
+bs4
